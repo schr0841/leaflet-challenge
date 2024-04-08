@@ -9,3 +9,5 @@ This page has all earthquakes over the past week displayed as circleMarkers() wi
 
 
 ![screenshot](https://github.com/schr0841/leaflet-challenge/blob/main/static_image_4.8.2024.png)
+
+If a user clicks on a marker, a popup will emerge with the selected earthquake's magnitude and depth. 
